@@ -89,4 +89,4 @@ Query参数只有一种格式，但是类型只能判断为string，点击按钮
 
 2023.9.13 add 
 考虑到不同团队的结尾分隔符号不一样，有的是分号，有的是逗号，添加输入框由开发自己选择，默认分号
-![image](https://note.youdao.com/yws/res/12454/WEBRESOURCE88b91ccb08006811276f440827108dcc)
+![image](http://m.qpic.cn/psc?/V52unZiZ3Efn180CwBtQ1qG9922ap8gK/ruAMsa53pVQWN7FLK88i5jUxwHHE*QlZabaSyNSXMtJvqdhk*815PYod2MztVQuEB*mV*S7ciGxjO781TGbu39k3tvpY9eE4A0GG35eosrA!/b&bo=sgC8AAAAAAABBy4!&rf=viewer_4)
