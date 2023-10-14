@@ -1,5 +1,5 @@
-.to-ts{
-  color: rgba(0,0,0,.65);
+.to-ts {
+  color: rgba(0, 0, 0, 0.65);
   position: fixed;
   right: 52px;
   top: 200px;
@@ -13,9 +13,9 @@
 .to-ts > button {
   cursor: pointer;
 }
-.to-ts-title{
+.to-ts-title {
   padding-bottom: 5px;
-  border-bottom: 1px solid #f0f0f0
+  border-bottom: 1px solid #f0f0f0;
 }
 
 .has-export-wrapper {
@@ -23,12 +23,12 @@
   margin: 5px 0;
   vertical-align: middle;
 }
-.has-export-wrapper .has-export-toggle{
+.has-export-wrapper .has-export-toggle {
   margin: 0 5px;
   vertical-align: middle;
 }
 
-.to-ts-res-btn{
+.to-ts-res-btn {
   border-radius: 2px;
   background-color: red;
   color: #fff;
@@ -36,7 +36,8 @@
   display: block;
 }
 
-.to-ts-req-btn, .to-ts-query-btn{
+.to-ts-req-btn,
+.to-ts-query-btn {
   border-radius: 2px;
   background-color: green;
   color: #fff;
@@ -50,7 +51,19 @@
   margin: 10px 0;
 }
 
-.to-ts-msg{
+.and {
+  background-color: #0000ff;
+}
+
+.and-body {
+  background-color: #5c3317;
+}
+
+.and-all {
+  background-color: #70db93;
+}
+
+.to-ts-msg {
   position: fixed;
   top: 150px;
   right: 0;
@@ -61,30 +74,29 @@
   min-width: 100px;
   padding: 6px 12px 6px 7px;
   height: 30px;
-  opacity: .8;
+  opacity: 0.8;
   box-sizing: border-box;
   border-radius: 15px 0 0 15px;
-  transition: all .4s ease-in
+  transition: all 0.4s ease-in;
 }
 
-.to-ts-msg.is-leaving{
+.to-ts-msg.is-leaving {
   opacity: 0;
-  transform: translateX(100%)
+  transform: translateX(100%);
 }
 
-.to-ts-msg div{
-  flex: 1
+.to-ts-msg div {
+  flex: 1;
 }
 
-.to-ts-msg img{
+.to-ts-msg img {
   width: 20px;
   height: 20px;
-  margin-right: 12px
+  margin-right: 12px;
 }
 
 .separator {
   width: 50px;
   height: 19px;
   margin-left: 10px;
-  
 }
